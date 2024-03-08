@@ -1,0 +1,47 @@
+track PTCHD1-AS_Spliced_Variants
+bigDataUrl PTCHD1-AS_Spliced_Variants.bed
+shortLabel PTCHD1-AS Spliced Variants
+longLabel PTCHD1-AS Spliced Variants AS1, AS2, AS3. Coordinate and exons from RefSeq and Ross et. al
+type bed
+visibility pack
+color 186,85,211
+
+track PTCHD1-AS_can_exons
+bigDataUrl PTCHD1-AS_can_exons.bed
+shortLabel PTCHD1-AS canonical exons
+longLabel PTCHD1-AS canonical exons. Coordinates obtained from RefSeq
+type bed
+visibility pack
+color 0,0,255
+
+track PTCHD1-AS_novel_exons
+bigDataUrl PTCHD1-AS_novel_exons.bed
+shortLabel PTCHD1-AS novel exons
+longLabel PTCHD1-AS novel exons. Coordinates obtained by Ross et. al
+type bed
+visibility pack
+color 255,0,0
+
+track ASD_Female_Deletion_Carriers
+bigDataUrl ASD_Female_Deletion_Carriers.bed
+shortLabel ASD female deletion carriers
+longLabel ASD female deletion carriers. Obtained from pedigrees
+type bed
+visibility pack
+color color=128,128,0
+
+track Unaffected_Female_Deletion_Carriers
+bigDataUrl Unaffected_Female_Deletion_Carriers.bed
+shortLabel Unaffected Female Deletion Carriers
+longLabel Unaffected Female Deletion Carriers. Obtained from pedigrees
+type bed
+visibility pack
+color 34,139,34
+
+track THuges_possible_exons
+bigDataUrl THuges_possible_exons.bed
+shortLabel THuges possible exons
+longLabel THuges possible exons. Obtained from paper
+type bed
+visibility pack
+color 0,128,0
