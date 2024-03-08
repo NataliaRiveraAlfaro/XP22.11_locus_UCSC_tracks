@@ -1,0 +1,6 @@
+hub XP22.11Locus
+shortLabel XP22.11 locus
+longLabel UCSC Genome Hub for human the information regarding the XP22.11 locus
+genomesFile genomes.txt
+email natalia.rivera.alfaro@mail.utoronto.ca
+descriptionUrl ucscHubXP22-11Locus.html 
