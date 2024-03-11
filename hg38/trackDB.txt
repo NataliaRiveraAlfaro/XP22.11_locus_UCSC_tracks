@@ -31,7 +31,7 @@ visibility pack
 color color=128,128,0
 
 track Unaffected_Female_Deletion_Carriers
-bigDataUrl Unaffected_Female_Deletion_Carriers.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/Unaffected_Female_Deletion_Carriers.bed
 shortLabel Unaffected Female Deletion Carriers
 longLabel Unaffected Female Deletion Carriers. Obtained from pedigrees
 type bed
