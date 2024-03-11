@@ -23,7 +23,7 @@ visibility pack
 color 255,0,0
 
 track ASD_Female_Deletion_Carriers
-bigDataUrl ASD_Female_Deletion_Carriers.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/ASD_Female_Deletion_Carriers.bed
 shortLabel ASD female deletion carriers
 longLabel ASD female deletion carriers. Obtained from pedigrees
 type bed
