@@ -1,4 +1,4 @@
-track PTCHD1-AS_Spliced_Variants
+track PTCHD1-AS_Spliced_Var
 bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_Spliced_Variants.bb
 shortLabel PTCHD1-AS Spliced Variants
 longLabel PTCHD1-AS Spliced Variants AS1, AS2, AS3. Coordinate and exons from RefSeq and Ross et. al
