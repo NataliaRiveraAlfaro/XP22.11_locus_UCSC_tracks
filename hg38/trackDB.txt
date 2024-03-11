@@ -7,7 +7,7 @@ visibility pack
 color 186,85,211
 
 track PTCHD1-AS_can_exons
-bigDataUrl PTCHD1-AS_can_exons.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_can_exons.bed
 shortLabel PTCHD1-AS canonical exons
 longLabel PTCHD1-AS canonical exons. Coordinates obtained from RefSeq
 type bed
