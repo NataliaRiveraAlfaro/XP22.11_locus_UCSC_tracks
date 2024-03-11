@@ -39,7 +39,7 @@ visibility pack
 color 34,139,34
 
 track THuges_possible_exons
-bigDataUrl THuges_possible_exons.bed
+bigDataUrl https://github.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/edit/main/hg38/THuges_possible_exons.bed
 shortLabel THuges possible exons
 longLabel THuges possible exons. Obtained from paper
 type bed
