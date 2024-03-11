@@ -6,6 +6,13 @@ type bigBed
 visibility pack
 itemRgb on
 
+track PTCHD1-AS_Spliced_Variants
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_Spliced_Variants.bb
+shortLabel PTCHD1-AS Spliced Variants
+longLabel try 2
+type bigBed
+visibility full
+
 track PTCHD1-AS_can_exons
 bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_can_exons.bb
 shortLabel PTCHD1-AS canonical exons
