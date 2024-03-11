@@ -1,5 +1,5 @@
 track PTCHD1-AS_Spliced_Variants
-bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_Spliced_Variants.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_Spliced_Variants.bb
 shortLabel PTCHD1-AS Spliced Variants
 longLabel PTCHD1-AS Spliced Variants AS1, AS2, AS3. Coordinate and exons from RefSeq and Ross et. al
 type bed
@@ -7,7 +7,7 @@ visibility pack
 color 186,85,211
 
 track PTCHD1-AS_can_exons
-bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_can_exons.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_can_exons.bb
 shortLabel PTCHD1-AS canonical exons
 longLabel PTCHD1-AS canonical exons. Coordinates obtained from RefSeq
 type bed
@@ -15,7 +15,7 @@ visibility pack
 color 0,0,255
 
 track PTCHD1-AS_novel_exons
-bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_novel_exons.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_novel_exons.bb
 shortLabel PTCHD1-AS novel exons
 longLabel PTCHD1-AS novel exons. Coordinates obtained by Ross et. al
 type bed
@@ -23,7 +23,7 @@ visibility pack
 color 255,0,0
 
 track ASD_Female_Deletion_Carriers
-bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/ASD_Female_Deletion_Carriers.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/ASD_Female_Deletion_Carriers.bb
 shortLabel ASD female deletion carriers
 longLabel ASD female deletion carriers. Obtained from pedigrees
 type bed
@@ -31,7 +31,7 @@ visibility pack
 color color=128,128,0
 
 track Unaffected_Female_Deletion_Carriers
-bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/Unaffected_Female_Deletion_Carriers.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/Unaffected_Female_Deletion_Carriers.bb
 shortLabel Unaffected Female Deletion Carriers
 longLabel Unaffected Female Deletion Carriers. Obtained from pedigrees
 type bed
@@ -39,7 +39,7 @@ visibility pack
 color 34,139,34
 
 track THuges_possible_exons
-bigDataUrl https://github.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/edit/main/hg38/THuges_possible_exons.bed
+bigDataUrl https://github.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/edit/main/hg38/THuges_possible_exons.bb
 shortLabel THuges possible exons
 longLabel THuges possible exons. Obtained from paper
 type bed
