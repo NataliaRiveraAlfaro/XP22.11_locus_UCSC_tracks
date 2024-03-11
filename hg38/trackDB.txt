@@ -15,7 +15,7 @@ visibility pack
 color 0,0,255
 
 track PTCHD1-AS_novel_exons
-bigDataUrl PTCHD1-AS_novel_exons.bed
+bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_novel_exons.bed
 shortLabel PTCHD1-AS novel exons
 longLabel PTCHD1-AS novel exons. Coordinates obtained by Ross et. al
 type bed
