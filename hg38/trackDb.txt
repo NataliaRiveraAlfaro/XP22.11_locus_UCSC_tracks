@@ -6,6 +6,8 @@ type bigGenePred
 visibility pack
 baseColorDefault genomicCodons
 itemRgb on
+exonArrowsDense
+iframeOptions width='800' height='800' scrolling='yes'
 
 track PTCHD1-AS_can_exons
 bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_can_exons.bb
@@ -14,6 +16,7 @@ longLabel PTCHD1-AS canonical exons. Coordinates obtained from RefSeq
 type bigBed
 visibility pack
 color 0,0,255
+iframeOptions width='800' height='800' scrolling='yes'
 
 track PTCHD1-AS_novel_exons
 bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_novel_exons.bb
