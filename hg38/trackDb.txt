@@ -45,5 +45,5 @@ bigDataUrl https://github.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/edit
 shortLabel THuges possible exons
 longLabel THuges possible exons. Obtained from paper
 type bigBed
-visibility pack
+visibility dense
 color 0,128,0
