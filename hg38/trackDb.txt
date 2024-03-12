@@ -6,7 +6,6 @@ type bigGenePred
 visibility pack
 baseColorDefault genomicCodons
 itemRgb on
-exonArrowsDense on
 iframeOptions width='800' height='800' scrolling='yes'
 
 track PTCHD1-AS_can_exons
