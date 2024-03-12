@@ -6,6 +6,7 @@ type bigGenePred
 visibility pack
 baseColorDefault genomicCodons
 color 255,20,147
+itemRgb on
 
 track PTCHD1-AS_can_exons
 bigDataUrl https://raw.githubusercontent.com/NataliaRiveraAlfaro/XP22.11_locus_UCSC_tracks/main/hg38/PTCHD1-AS_can_exons.bb
