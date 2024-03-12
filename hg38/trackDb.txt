@@ -5,7 +5,6 @@ longLabel PTCHD1-AS Spliced Variants AS1, AS2, AS3. Coordinate and exons from Re
 type bigGenePred
 visibility pack
 baseColorDefault genomicCodons
-color 255,20,147
 itemRgb on
 
 track PTCHD1-AS_can_exons
